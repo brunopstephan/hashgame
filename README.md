@@ -1,5 +1,3 @@
-<h1># Jogo da Velha #</h1>
+"1" = X || "2" = O
 
-<h2>🚨 --> No início, jogador 1 é "X" e 2 é "O". </h2>
 
-feat. https://github.com/salzani
